@@ -15,7 +15,7 @@ Installation
 Clone this repository:
 ----------------------
 ````
-https://github.com/lunaluna/vagrant-grunt-project-sample.git
+git clone https://github.com/lunaluna/vagrant-grunt-project-sample.git
 ``````
 
 Run vagrant:

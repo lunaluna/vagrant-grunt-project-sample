@@ -21,7 +21,7 @@ https://github.com/lunaluna/vagrant-grunt-project-sample.git
 Run vagrant:
 ------------
 ````
-cd vagrant-grunt
+cd ./vagrant-grunt-project-sample
 vagrant up
 ````
 Have a coffee - At the end you could access a simple html page at [http://localhost:8080](http://localhost:8080)
